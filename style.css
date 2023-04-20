@@ -57,14 +57,14 @@ body {
 
 .edit-mode, 
 .list-title {
-    list-style:none;
+    list-style: none;
 }
 
 .mark-task,
 .edit,
 .delete,
 .add {
-    outline:none;
+    outline: none;
 }
 
 .edit,
@@ -174,14 +174,14 @@ body {
 
 /* Edit Task */
 .task-text {
-    display:none
+    display: none
 }
 
 .edit-mode.editMode .task-text {
-    display:inline-block;
+    display: inline-block;
     width: 224px;
 }
 
 .edit-mode.editMode .task {
-    display:none;
+    display: none;
 }
